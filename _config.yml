@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Ickkou's Github"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Ickkou Choi"
 description              : "An amazing website."
 url                      : "https://ickkou.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
